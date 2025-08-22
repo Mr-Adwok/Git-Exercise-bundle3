@@ -12,3 +12,4 @@
    - git cherry-pick 53db8da
    - git pull origin main
    - git revert 53db8da
+   - git checkout -b ft/home-page-redesign
